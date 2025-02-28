@@ -26,6 +26,26 @@
 - Platine War
 - Uruguayan War
 - Uruguayan Civil War
+
+- Ragamuffin War
+- São José do Norte Campaign (1840)
+- Battle of Arroio Grande (1835)
+- Battle of Arroio Grande (1844)
+- Battle of Arroio Telho
+- Battle of Fanfa Island
+- Resumption of Porto Alegre (1836)
+- Resumption of Laguna (1839)
+- Resumption of Lages (1839)
+- Retaking of the Junco fort (1836)
+- Retaking of the Itapoã fort (1836)
+- Battle near the Marombas River
+- Battle near São Gabriel
+- Invasion of Caçapava (1840)
+- Battle of Tabatingaí
+- Battle of Rincão Bonito
+- Battle of Porongos
+- Battle of Cuaró
+- Treaty of Poncho Verde
   
 - Paraguayan War
 - Voluntários da Pátria

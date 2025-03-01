@@ -32,7 +32,10 @@
 - Battle of Arroio Grande (1835)
 - Battle of Arroio Grande (1844)
 - Battle of Arroio Telho
+- Battle of Torres
 - Battle of Fanfa Island
+- Battle of Jacuí River
+- Battle of Faxinal
 - Resumption of Porto Alegre (1836)
 - Resumption of Laguna (1839)
 - Resumption of Lages (1839)
@@ -41,6 +44,7 @@
 - Battle near the Marombas River
 - Battle near São Gabriel
 - Invasion of Caçapava (1840)
+- Battle of Pelotas
 - Battle of Tabatingaí
 - Battle of Rincão Bonito
 - Battle of Porongos

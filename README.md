@@ -66,6 +66,7 @@
 - Battle of Paso de Mercedes
 - Battle of Paso de Cuevas
 - Battle of Yatay
+- Battle of Alto Paraná
 - Battle of Jaguarí
 - Invasion of Rio Grande do Sul
 - Siege of Uruguaiana

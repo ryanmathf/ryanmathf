@@ -1,5 +1,6 @@
 - Spanish–Portuguese War (1735–1737)
 - Portuguese conquest of the Banda Oriental
+- Battle of San Borja
 - Battle of Ibiraocaí
 - Battle of Carumbé
 - Battle of India Muerta
@@ -8,16 +9,28 @@
 - Battle of Catalán
 - Battle of Paso Cuello
 - Battle of San Carlos (1817)
+- Battle of Queguay Chico
+- Battle of Pando
 - Battle of Arroyo Grande (1818)
+- Battle of Santa María
 - Battle of Tacuarembó
 - Division of Royal Volunteers
 
+- Battle of Puntas del Águila
+- Attack on the frigate Imperatriz
+- Attack on the frigate Nictheroy
 - Attack on the Brazilian Fort in Punta del Este
+- Battle of Padre Filiberto
+- Battle of Las Cañas (1828)
 - Battle of Colonia del Sacramento (1826)
-- Battle of Quilmes
+- Battle of Quilmes (1826)
+- Battle of Quilmes (1828)
+- Battle of Punta de Quilmes
 - Battle of Monte Santiago
+- Battle of Bajíos de Arregui
+- Invasion of Chiquitos
+
 - Battle of Caseros
-- The Brazilian Army marches in Buenos Aires
 - Battle of the Tonelero Pass
 - Battle of Jaguarão
 - Siege of Montevideo (1843–1851)

@@ -102,6 +102,7 @@
 - Battle of Laguna Cierva
 - Battle of Iasuií (2 May 1868)
 - Battle of Iasuií (8 May 1868)
+- Battle of Andaí
 - Assault on the battleships Cabral and Lima Barros
 - Assault on the battleships Barroso and Rio Grande
 - Assault of Paso Cidra
@@ -123,16 +124,20 @@
 - Sacking of Asunción
 - Campaign of the Hills
 - Manduvirá River Expeditions
+- Battle of Altos
+- Battle of Ascurra
 - Battle of Tupium
 - Battle of Piribebuy
 - Battle of Acosta Ñu
-- Battle of Caguijuru
-- Battle of Caraguataí
+- Battle of Caguijuru and Caraguataí
+- Battle of Acapatigó
+- Battle of Abagiba
+- Battle of Iguatemi
 - Battle of Villa Ygatimí
 - Battle of Lomaruguá
 - Battle of Cerro Corá
 - Battle of Miranda
-- Taking of the Río Verde trench
-- Taking of the Cambaceguá stronghold
+- Capture of the Rio Verde trench
+- Capture of the Cambaceguá redoubt
 - Treaty of the Triple Alliance
 - Conference of Yataytí Corá
